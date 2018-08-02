@@ -1,0 +1,4 @@
+Split vault unseal keys up before kms encrption
+Store each key evenly as possible between keys
+DO NOT AUTO UNSEAL
+Add service to poke vault as required
